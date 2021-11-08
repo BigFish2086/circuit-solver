@@ -1,0 +1,13 @@
+==========unknowns vector================
+[ (2.298,1.928) , (1.58,1.784) , (-0.137,1.64) , (0.499,0) , (-0.717,-0.143) ]
+
+==========power vector================
+[ 
+Vs1 complex power is (-0.961759,-0.527002)
+R1 complex power is 0.26813
+G1 complex power is (5.67906,0)
+L1 complex power is (0.235286,-1.39845)
+R2 complex power is 1.48441
+Cs1 complex power is (-0.499,0)
+R3 complex power is 0.498002
+]
