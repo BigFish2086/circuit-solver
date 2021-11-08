@@ -18,5 +18,5 @@ to simulate simple AC circuits that contains :
 </ol>
 
 <p align="center">
-  <img width="600" height="400" src="Solver.PNG">
+  <img width="600" height="400" src="./assets/Solver.PNG">
 </p>
